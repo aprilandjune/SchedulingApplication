@@ -1,0 +1,11 @@
+d:\Documents\Visual Studio 2017\Projects\SchedulingApplication\SchedulingApplication\bin\Debug\SchedulingApplication.exe.config
+d:\Documents\Visual Studio 2017\Projects\SchedulingApplication\SchedulingApplication\bin\Debug\SchedulingApplication.exe
+d:\Documents\Visual Studio 2017\Projects\SchedulingApplication\SchedulingApplication\bin\Debug\SchedulingApplication.pdb
+d:\Documents\Visual Studio 2017\Projects\SchedulingApplication\SchedulingApplication\obj\Debug\SchedulingApplication.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\SchedulingApplication\SchedulingApplication\obj\Debug\SchedulingApplication.DirectoryPathForm.resources
+d:\Documents\Visual Studio 2017\Projects\SchedulingApplication\SchedulingApplication\obj\Debug\SchedulingApplication.Properties.Resources.resources
+d:\Documents\Visual Studio 2017\Projects\SchedulingApplication\SchedulingApplication\obj\Debug\SchedulingApplication.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2017\Projects\SchedulingApplication\SchedulingApplication\obj\Debug\SchedulingApplication.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\SchedulingApplication\SchedulingApplication\obj\Debug\SchedulingApplication.exe
+d:\Documents\Visual Studio 2017\Projects\SchedulingApplication\SchedulingApplication\obj\Debug\SchedulingApplication.pdb
+d:\Documents\Visual Studio 2017\Projects\SchedulingApplication\SchedulingApplication\obj\Debug\SchedulingApplication.csproj.ResolveComReference.cache

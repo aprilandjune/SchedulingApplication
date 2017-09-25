@@ -79,6 +79,7 @@
             this.courseRes_label.Size = new System.Drawing.Size(345, 20);
             this.courseRes_label.TabIndex = 2;
             this.courseRes_label.Text = "C:\\";
+            this.courseRes_label.TextChanged += new System.EventHandler(this.courseRes_label_TextChanged);
             // 
             // roomList_label
             // 
@@ -87,6 +88,7 @@
             this.roomList_label.Size = new System.Drawing.Size(345, 20);
             this.roomList_label.TabIndex = 3;
             this.roomList_label.Text = "C:\\";
+            this.roomList_label.TextChanged += new System.EventHandler(this.roomList_label_TextChanged);
             // 
             // label1
             // 

@@ -23,8 +23,6 @@ namespace SchedulingApplication
         {
             InitializeComponent();
             
-            bClicked1 = false;
-            bClicked2 = false;
         }
 
        
@@ -45,7 +43,7 @@ namespace SchedulingApplication
                         dataRoom = new DataTable();
                         dataRoom = readExcel(filePath, fileExt); //read excel file  
                         
-                        bClicked1 = true;
+                        
                         roomList_label.Text = file.FileName;
                     }
                     catch (Exception ex)
@@ -77,7 +75,7 @@ namespace SchedulingApplication
                         dataCourseResults = new DataTable();
                         this.dataCourseResults = readExcel(filePath, fileExt); //read excel file  
                         
-                        bClicked2 = true;
+                        
                         courseRes_label.Text = file.FileName;
                     }
                     catch (Exception ex)
@@ -158,6 +156,19 @@ namespace SchedulingApplication
                 
             }
             
+        }
+
+        private void roomList_label_TextChanged(object sender, EventArgs e)
+        {
+            if (roomList_label.Text.Equals(""))
+            {
+
+            }
+        }
+
+        private void courseRes_label_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
